@@ -1,3 +1,13 @@
+i3wm Kitty Vim Tmux Navigator
+==================
+
+This is an attempt to bring together seamless navigation between i3wm, kitty, vim and tmux. The base is [Chris Toomey's](https://github.com/christoomey/vim-tmux-navigator) vim-tmux navigator and I'll be taking code from:
+
+- https://github.com/knubie/vim-kitty-navigator
+- https://github.com/fogine/vim-i3wm-tmux-navigator
+- https://github.com/NikoKS/kitty-vim-tmux-navigator
+
+
 Vim Tmux Navigator
 ==================
 
